@@ -1,0 +1,42 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  margin: 36px auto;
+  font-size: 24;
+}
+main {
+  padding: 72px;
+  background-color: antiquewhite;
+}
+h1 {
+  text-align: center;
+}
+span {
+  color: red;
+}
+span.uri {
+  color:blueviolet
+}
+h3 {
+  text-align: center;
+}
+section {
+  padding: 36px;
+  text-align: center;
+  margin: 36px;
+  color:whitesmoke;
+  border-radius: 12px;
+
+}
+footer {
+  margin-top: 320px;
+}
+.blue {
+  background-color: blue
+}
+.red {
+  background-color: red;
+}
+.brown {
+  background-color: brown
+}
